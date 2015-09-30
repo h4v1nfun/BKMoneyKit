@@ -9,7 +9,6 @@ Card logo images by http://www.shopify.com/blog/6335014-32-free-credit-card-icon
 ![Screenshot](./Screenshots/money_kit_01.png)
 ![Screenshot](./Screenshots/money_kit_02.png)
 
-
 ## Classes
 | Class | Description |
 | ----- | ----------- |
